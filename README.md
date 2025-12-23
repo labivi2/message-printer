@@ -1,2 +1,10 @@
 # message-printer
-Simple Java message printer for learning Git/GitHub
+## Опис
+
+Програма виводить:
+- Привітальне повідомлення
+- Поточну дату
+- Поточний час
+- Інформацію про автора
+
+## Використання
